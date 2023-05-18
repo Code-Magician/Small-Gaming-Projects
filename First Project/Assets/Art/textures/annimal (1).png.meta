@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 442ffe3009fea9147847e401e89782f9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: annimal (1)_0
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 909
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5270235, y: 0.4891887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493cce9de18effc47b94e282f6479e0b
+      internalID: 1416880078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annimal (1)_1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 901
+        width: 83
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5270235, y: 0.4891887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b19dcf3a30ab74d9ba7a8d366379a9
+      internalID: 1826172008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annimal (1)_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 911
+        width: 93
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5270235, y: 0.4891887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e83354437a18748b5eca41310cf6a7
+      internalID: -287820913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annimal (1)_3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 912
+        width: 93
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5270235, y: 0.4891887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f49651957b53e4ea3c34799c8cf3d3
+      internalID: -2131782033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annimal (1)_4
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 907
+        width: 105
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5270235, y: 0.4891887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1428fc382121f40ac74f32530afd2f
+      internalID: -1026870639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annimal (1)_5
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 900
+        width: 110
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5270235, y: 0.4891887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8af05032a9c8a3479e7404a61f2c6ca
+      internalID: 1308112349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annimal (1)_6
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 809
+        width: 100
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5270235, y: 0.4891887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513288cdc4de13546a50c8dfb08063bb
+      internalID: 1501061400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annimal (1)_7
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 813
+        width: 80
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5270235, y: 0.4891887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4885438e5e8da564c8a0b5b9ce958618
+      internalID: -403703631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annimal (1)_8
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 813
+        width: 77
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5270235, y: 0.4891887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c737d7bc21bca47af9c7a007da32c9
+      internalID: -1125346204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annimal (1)_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 807
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5270235, y: 0.4891887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa84bd43089bfb647af975f331603425
+      internalID: 916876083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annimal (1)_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 802
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5270235, y: 0.4891887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df50cf19d43b67f49b60631f0062155e
+      internalID: 1976284697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annimal (1)_11
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 899
+        width: 83
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5270235, y: 0.4891887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1894873ccf8704294b3bf55fee9445
+      internalID: 1410881847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annimal (1)_12
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 811
+        width: 122
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5270235, y: 0.4891887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a05b5a5046c03e4da942a6de595b757
+      internalID: -1923807433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 34a87985c200aa742b3b98bdb4b8735b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      annimal (1)_7: -403703631
+      annimal (1)_11: 1410881847
+      annimal (1)_2: -287820913
+      annimal (1)_8: -1125346204
+      annimal (1)_0: 1416880078
+      annimal (1)_5: 1308112349
+      annimal (1)_6: 1501061400
+      annimal (1)_3: -2131782033
+      annimal (1)_9: 916876083
+      annimal (1)_4: -1026870639
+      annimal (1)_10: 1976284697
+      annimal (1)_12: -1923807433
+      annimal (1)_1: 1826172008
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
